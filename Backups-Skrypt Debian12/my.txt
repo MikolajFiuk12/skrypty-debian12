@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cd ..
+cd ..
+cd /opt
+cd minecraft
+cd myserver
+cd crash-reports
+cd crt || exit 1
+./start.sh

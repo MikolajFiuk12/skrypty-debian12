@@ -1,0 +1,8 @@
+#!/bin/bash
+
+cd ..
+cd ..
+cd /opt
+cd minecraft
+cd myserver || exit 1
+./start.sh

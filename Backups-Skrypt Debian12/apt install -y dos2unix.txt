@@ -1,0 +1,4 @@
+apt install -y dos2unix
+dos2unix Start-Server.sh
+chmod +x Start-Server.sh
+./Start-Server.sh
